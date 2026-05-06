@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadomran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-omran-414092383)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aomran3)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadomran478@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=aomran3&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/aomran3)
 
 </div>
@@ -70,22 +70,6 @@ status:     👀 Open to Software Engineering Opportunities
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aomran3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7b2ff7&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomran3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aomran3&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7b2ff7&fire=00d9ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
-
-</div>
-
----
 
 ## 🌟 Featured Projects
 
@@ -125,7 +109,7 @@ Full-stack web application for managing restaurant menus, customer orders, and d
 
 | 📧 Email | 💼 LinkedIn | 🐙 GitHub |
 |:---:|:---:|:---:|
-| [your@email.com](mailto:your@email.com) | [linkedin.com/in/ahmadomran](https://linkedin.com/in/ahmadomran) | [@aomran3](https://github.com/aomran3) |
+| [ahmadomran478@gmail.com](mailto:ahmadomran478@gmail.com) | [linkedin.com/in/ahmad-omran-414092383](https://www.linkedin.com/in/ahmad-omran-414092383) | [@aomran3](https://github.com/aomran3) |
 
 </div>
 
